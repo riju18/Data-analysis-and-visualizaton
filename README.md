@@ -10,4 +10,4 @@
 
 ![result_Dashboard](https://user-images.githubusercontent.com/18087611/71526625-f3c98d80-2901-11ea-9429-d9ba190c2ff2.png)
 
-<h4>Example heading <span class="badge bg-primary">New</span></h4>
+<h4>Inspired by <span class="badge bg-primary">@ superDataScience</span></h4>
