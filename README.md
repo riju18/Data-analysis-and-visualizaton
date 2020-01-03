@@ -9,3 +9,5 @@
 ![use of custome cluster_map](https://user-images.githubusercontent.com/18087611/71526623-f2986080-2901-11ea-8022-3b695546a969.png)
 
 ![result_Dashboard](https://user-images.githubusercontent.com/18087611/71526625-f3c98d80-2901-11ea-9429-d9ba190c2ff2.png)
+
+# <span class="badge badge-danger">Danger</span>
